@@ -17,6 +17,6 @@ app.get('*', function (request, response) {
 })
 
 app.listen(port, function () {
-    console.log('Servido corriendo en corriendo en el puerto ' + port);
+    console.log('Se prendió');
 })
 
